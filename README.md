@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome to NIC Decoder, a Flutter-based mobile application designed to extract and display essential details from a Sri Lankan National Identity Card (NIC) number. This app helps users decode their NIC to retrieve valuable information such as date of birth, gender, age, and voting ability.
+This is a widget hieracky of this application
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/ab48440a-9d38-4242-945b-ac59c8e74151)
